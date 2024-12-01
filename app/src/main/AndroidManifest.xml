@@ -50,6 +50,8 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/add_app_id" />
 
+        <activity android:name=".activities.TaskDetailActivity"/>
+
     </application>
 
 </manifest>
